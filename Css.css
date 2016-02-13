@@ -1,0 +1,29 @@
+td {
+  border: 1px solid black;
+  height:250px;
+  width: 250px;
+  text-align: center;
+  font-size: 200px;
+  cursor: pointer;
+}
+
+button {
+  height: 30px;
+  width: 60px;
+
+}
+
+body {
+  width:75%;
+  background-color: lightgray;
+  margin: 0 auto;
+  align-content: center;
+}
+
+table {
+  margin: auto;
+}
+
+.player2 {
+  margin-left: 200px;
+}
